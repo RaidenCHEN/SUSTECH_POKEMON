@@ -1,2 +1,0 @@
-# Pokemon
- OOAD_project
